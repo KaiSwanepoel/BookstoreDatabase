@@ -11,6 +11,7 @@ instructions for installing this project: https://docs.github.com/en/repositorie
 1. After installing the project and running it in your IDE the program will create a database file with some books already in it.
 2. You will be presented with a menu of options with their corrisponding numbers, click the number of the function you want to use.
 3. images below of the program in action:
+
 ![image](https://github.com/KaiSwanepoel/BookstoreDatabase/assets/171057453/c4baa92b-425c-4cf2-abe8-06a36a006f67)
 ![image](https://github.com/KaiSwanepoel/BookstoreDatabase/assets/171057453/49682027-c626-4d30-9d20-15048c2603e2)
 ![image](https://github.com/KaiSwanepoel/BookstoreDatabase/assets/171057453/ba355ae4-6dcf-4748-b73d-46d124c0a6b4)
