@@ -12,7 +12,7 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS book_table (
                quantity INT )''')
 
 # Populate table with books and their information
-new_rows = [
+book_information = [
     (3001, "A Tale of Two Cities", "Charles Dickens", 30),
     (3002, "Harry Potter and the Philosopher's Stone", "J.K. Rowling", 40),
     (3003, "The Lion, the Witch and the Wardrobe", "C.S. Lewis", 25),
@@ -21,7 +21,7 @@ new_rows = [
 ]
 
 # insert the books into the table and commit the database
-cursor.executemany("INSERT INTO book_table (id, title, author, quantity) VALUES (?, ?, ?, ?)", new_rows)
+cursor.executemany("INSERT INTO book_table (id, title, author, quantity) VALUES (?, ?, ?, ?)", book_information)
 
 db.commit()
 
