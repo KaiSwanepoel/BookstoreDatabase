@@ -10,17 +10,17 @@ This program can be used by businesses that need to take stock of their books an
 INSTALLATION:
 1. On GitHub, navigate to the main page of the repository.
 2. Above the list of files, click Code.
-  
-3. ![image](https://github.com/KaiSwanepoel/BookstoreDatabase/assets/171057453/54255320-5b19-427d-bdf2-b4bf89b9d72b)
 
-4. Now you can either click on download zip to download the files to your computer or copy the given link.
+![image](https://github.com/KaiSwanepoel/BookstoreDatabase/assets/171057453/54255320-5b19-427d-bdf2-b4bf89b9d72b)
+
+3. Now you can either click on download zip to download the files to your computer or copy the given link.
    
-5. ![image](https://github.com/KaiSwanepoel/BookstoreDatabase/assets/171057453/37ce7826-bc00-407c-9473-ceff757f3676)
+![image](https://github.com/KaiSwanepoel/BookstoreDatabase/assets/171057453/37ce7826-bc00-407c-9473-ceff757f3676)
 
-6. If you copied the link then proceed to open Git Bash.
-7. Change your directory to where you want the repository cloned.
-8. Type git clone then the url you copied e.g (git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY) then press enter.
-9. Good luck
+4. If you copied the link then proceed to open Git Bash.
+5. Change your directory to where you want the repository cloned.
+6. Type git clone then the url you copied e.g (git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY) then press enter.
+7. Good luck
 
 
 USAGE:
